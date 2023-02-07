@@ -17,7 +17,7 @@ This app is meant to be used by school manager or PTA Manager to manage their sc
  - Student Bill & Status Record
  ![image](https://user-images.githubusercontent.com/70184357/217190555-968a208d-ee12-4e2f-b65b-76f184fd8d4f.png)
 
- -  Parent Transaction Record
+ - Parent Transaction Record
  ![image](https://user-images.githubusercontent.com/70184357/217190441-5f91bedf-5383-4c0b-995d-6db01fa2a795.png)
 
 
