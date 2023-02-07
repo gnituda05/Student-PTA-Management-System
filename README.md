@@ -5,7 +5,7 @@ Student PTA Management System using JAVA Netbeans
 
 This app is meant to be used by school manager or PTA Manager to manage their school PTA records:
   
-  -Menu Page
+  - Menu Page
   ![image](https://user-images.githubusercontent.com/70184357/217190059-8eaa0b2a-26bd-4823-a1bb-e80c9a9e2014.png)
   
   - Student Register & Record
